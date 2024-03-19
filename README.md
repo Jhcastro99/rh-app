@@ -52,4 +52,4 @@ Abre tu navegador web y accede a la siguiente URL: http://localhost:3000
 Nota:
 
 Puedes modificar el código del proyecto según tus necesidades.
-Se recomienda crear una base de datos PostgreSQL para almacenar los datos de los empleados.
+Se recomienda crear una base de datos MySQL para almacenar los datos de los empleados.
